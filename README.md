@@ -11,6 +11,7 @@ Colab 1: https://colab.research.google.com/drive/1OYuPDVSFsdSb96AYA3RliZEuPSoV-n
 
 **parcial 2**
 
+[Fotos](https://github.com/Marcos-Arturo-L-G/BasedeDatosNoRelacional-FOTOS.git)
 
 **parcial 3**
 
